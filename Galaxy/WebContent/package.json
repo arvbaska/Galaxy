@@ -1,0 +1,59 @@
+{
+    "title": "Galaxy",
+    "name": "Galaxy",
+    "version": "0.0.1",
+    "description": "Galaxy",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://startbootstrap.com/template-overviews/blog-home",
+    "bugs": {
+        "url": "#",
+        "email": "alok150392@umail.ucc.ie"
+    },
+    "license": "MIT",
+    "author": "Alok Kumar",
+    "contributors": [
+        "Alok Kumar"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arvbaska/Galaxy.git"
+    },
+    "dependencies": {
+        "angular": "~1.5.8",
+        "angular-animate": "~1.4.8",
+        "angular-mocks": "~1.4.14",
+        "angular-sanitize": "~1.4.8",
+        "angular-ui-router": "~0.2.15",
+        "bootstrap": "~3.3.7",
+        "bootstrap-sass": "^3.3.7",
+        "compromise": "~7.0.28",
+        "d3": "^3.5.17",
+        "font-awesome": "~4.7.0",
+        "jquery": "~3.2.1",
+        "jquery-ui": "~1.12.1",
+        "jquery-ui-dist": "~1.12.1",
+        "rangy": "~1.3.0",
+        "ui-router-extras": "~0.1.2",
+        "vis": "~4.19.1"
+    },
+    "devDependencies": {
+        "browser-sync": "~2.18.2",
+        "gulp": "~3.9.1",
+        "gulp-concat": "~2.6.1",
+        "gulp-ruby-sass": "~2.1.1",
+        "gulp-uglify": "~2.0.0",
+        "jasmine-core": "~2.4.1",
+        "karma": "~0.13.19",
+        "karma-chrome-launcher": "~0.2.2",
+        "karma-jasmine": "~0.3.6",
+        "webpack": "~1.13.3",
+        "webpack-dev-server": "~1.16.2"
+    }
+}
